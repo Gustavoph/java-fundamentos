@@ -1,6 +1,6 @@
 package MemoriaArrayListas;
 
-public class Produto {}
+import OrientacaoObjeto.ConstrutoresEncapsulamento.entities.Produto;
 
 public class TipoReferenciaValor {
     public static void main(String[] args) {
@@ -24,6 +24,9 @@ public class TipoReferenciaValor {
         * */
 
        Produto p = new Produto(); // tipo referencia
+       System.out.println(p);
+       
        int idade = 22; // tipo valor
+       System.out.println(idade);
     }
 }
