@@ -1,4 +1,4 @@
-package EnumeracaoComposicao.entities.enums;
+package EnumeracaoComposicao.enumeracao.entities.enums;
 
 public enum OrderStatus {
   PENDING_PAYMENT,

@@ -1,8 +1,8 @@
-package EnumeracaoComposicao.entities;
+package EnumeracaoComposicao.enumeracao.entities;
 
 import java.time.LocalDateTime;
 
-import EnumeracaoComposicao.entities.enums.OrderStatus;
+import EnumeracaoComposicao.enumeracao.entities.enums.OrderStatus;
 
 public class Order {
   private Integer id;

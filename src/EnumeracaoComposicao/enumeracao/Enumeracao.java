@@ -1,9 +1,9 @@
-package EnumeracaoComposicao;
+package EnumeracaoComposicao.enumeracao;
 
 import java.time.LocalDateTime;
 
-import EnumeracaoComposicao.entities.Order;
-import EnumeracaoComposicao.entities.enums.OrderStatus;
+import EnumeracaoComposicao.enumeracao.entities.Order;
+import EnumeracaoComposicao.enumeracao.entities.enums.OrderStatus;
 
 public class Enumeracao {
   public static void main(String[] args) {
