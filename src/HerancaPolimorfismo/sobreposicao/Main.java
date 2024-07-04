@@ -11,7 +11,7 @@ import HerancaPolimorfismo.sobreposicao.entities.SavingsAccount;
  * ao compilador que aquele método é uma sobreposição
  * 
  * Super
- * - Habilita a utilização de métodos da superclasse
+ * - Habilita a utilização de métodos da suacc2erclasse
  * basta usar super.metodo(), ou super() para chamar o construtor
  * da classe principal
  * - Também podemos utilizar para reaproveitar códigos da superclasse
