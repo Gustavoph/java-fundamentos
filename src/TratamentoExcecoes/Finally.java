@@ -25,9 +25,7 @@ public class Finally {
       System.out.println("Error opening file: " + e);
     } finally {
       System.out.println("Finally block executed");
-      if (sc != null) {
-        sc.close();
-      }
+      if (sc != null) { sc.close(); }
     }
   }
 }
